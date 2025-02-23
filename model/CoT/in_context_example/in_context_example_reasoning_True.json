@@ -1,0 +1,10 @@
+[
+  {
+    "Q": "Opioids increase the firing of dopamine cells in the ventral tegmental area by presynaptic inhibition of GABA release. In slices taken from morphine-treated guinea pigs after washing out the morphine (withdrawn slices), what is the effect of a low concentration of a mu receptor agonist on the amplitude of the GABAB-mediated IPSP?",
+    "A": "The effect of a low concentration of a mu receptor agonist on the amplitude of the GABAB-mediated IPSP in withdrawn slices from morphine-treated guinea pigs is an increase in the amplitude. This is because opioids, such as morphine, act on mu receptors to inhibit GABA release, which in turn increases the firing of dopamine cells in the ventral tegmental area. When the morphine is washed out, the mu receptors are no longer occupied, leading to a decrease in dopamine cell firing. By applying a low concentration of a mu receptor agonist, this effect can be partially reversed, resulting in an increase in the amplitude of the GABAB IPSP."
+  },
+  {
+    "Q": "Recent research suggests that cadmium (Cd) induces oxidative damage in cells, but the mechanism of this oxidative stress is unclear. To investigate this, the effects of Cd on the individual complexes of the electron transfer chain (ETC) and on the stimulation of reactive oxygen species (ROS) production in mitochondria were studied. Which complex is primarily responsible for Cd-induced ROS production in mitochondria?",
+    "A": "Cadmium exposure can lead to the disruption of the normal functioning of Complex III, resulting in an increased production of ROS within the mitochondria. Complex III, also known as the cytochrome bc1 complex or ubiquinol-cytochrome c reductase, is primarily responsible for cadmium-induced reactive oxygen species (ROS) production in mitochondria. This complex plays a crucial role in the electron transfer chain (ETC) by transferring electrons from ubiquinol to cytochrome c, which is essential for the generation of ATP through oxidative phosphorylation."
+  }
+]

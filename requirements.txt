@@ -1,0 +1,38 @@
+# Core Libraries
+pandas
+numpy
+scipy==1.10.1
+matplotlib
+seaborn
+python-dateutil
+pytz
+openai
+
+# Machine Learning & NLP
+scikit-learn
+transformers
+tokenizers
+tiktoken
+
+# Data Processing
+datasets
+pyyaml
+networkx
+tqdm
+Click
+
+# Web & API
+flask
+
+# Bioinformatics
+Bio
+pubchempy
+
+# Additional Utilities
+charset-normalizer==3.1.0
+pydot
+IPython
+setuptools_scm
+fschat
+astor
+pcst_fast

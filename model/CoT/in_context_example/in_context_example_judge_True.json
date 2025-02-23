@@ -1,0 +1,10 @@
+[
+  {
+    "Q": "Death receptor-mediated apoptosis can be modulated by several antiapoptotic proteins, including the FLICE-inhibitory proteins (FLIPs). The Kaposi's sarcoma-associated herpesvirus protein (KSHV-FLIP) is expressed by human herpesvirus 8 (HHV-8) and protects cells from Fas-mediated apoptosis. Does KSHV-FLIP inhibit caspase activation?",
+    "A": "KSHV-FLIP, also known as viral FLIP (vFLIP), is a potent inhibitor of caspase activation, particularly caspase-8, which plays a crucial role in the death receptor-mediated apoptosis pathway. By inhibiting caspase activation, KSHV-FLIP protects cells from Fas-mediated apoptosis and promotes cell survival. This anti-apoptotic function of KSHV-FLIP contributes to the pathogenesis of Kaposi's sarcoma and other diseases associated with HHV-8 infection. So the answer is Yes, KSHV-FLIP inhibits caspase activation."
+  },
+  {
+    "Q": "Cocaine addiction is thought to result from neural adaptations that counteract the effects of repeated drug administration. One transcription factor involved in these adaptations is DeltaFosB, which upregulates the expression of cyclin-dependent kinase 5 (Cdk5). Overexpression of DeltaFosB or chronic cocaine administration increases Cdk5 levels in the striatum. To investigate the role of Cdk5 in cocaine addiction, researchers injected Cdk5 inhibitors into the striatum and assessed the behavioral effects of repeated cocaine administration. Will injection of Cdk5 inhibitors into the striatum reduce the behavioral effects of repeated cocaine administration?",
+    "A": " With the introduction of Cdk5 inhibitors, the body's response to cocaine is diminished due to the inhibition of Cdk5, a protein that is upregulated in response to cocaine use. It may lead to an increased consumption of cocaine as the body attempts to compensate for the inhibited Cdk5. Therefore, Cdk5 inhibitors could exacerbate the problem by promoting increased cocaine use. So the answer is No, injection of Cdk5 inhibitors into the striatum exacerbate the behavioral effects of repeated cocaine administration."
+  }
+]
