@@ -79,3 +79,5 @@ dataset/pathway_graph_env/overall_entries.json
 .idea/
 
 outlog/
+
+backbone/model_dir_config_mine.yaml
