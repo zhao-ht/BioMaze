@@ -30,21 +30,21 @@ Max_index=$(( Total_process - 1 ))
 
 
 
-##Launch vLLM Servers
-#for i in $(seq 0 $((Num_LM-1))); do
-#  # Calculate the start GPU ID for the current LM
-#  start_gpu=$((i * Num_GPU_per_LM))
-#
-#  # Generate the list of GPU IDs for this LM
-#  gpus=$(seq -s, $start_gpu $((start_gpu + Num_GPU_per_LM - 1)))
-#
-#  # Convert to string format (e.g., '0,1,2,3' or '4,5')
-#  gpu_ids=$(echo $gpus | sed 's/ /,/g')
-#
-#  # Run the downstream test with the appropriate GPU IDs
-#  echo $gpu_ids
-#  ./downstream_test.sh "$i" "$gpu_ids" "$Model_name" "$TEST_TO_FILE"
-#done
+#Launch vLLM Servers
+for i in $(seq 0 $((Num_LM-1))); do
+  # Calculate the start GPU ID for the current LM
+  start_gpu=$((i * Num_GPU_per_LM))
+
+  # Generate the list of GPU IDs for this LM
+  gpus=$(seq -s, $start_gpu $((start_gpu + Num_GPU_per_LM - 1)))
+
+  # Convert to string format (e.g., '0,1,2,3' or '4,5')
+  gpu_ids=$(echo $gpus | sed 's/ /,/g')
+
+  # Run the downstream test with the appropriate GPU IDs
+  echo $gpu_ids
+  ./downstream_test.sh "$i" "$gpu_ids" "$Model_name" "$TEST_TO_FILE"
+done
 
 # Run downstream tasks
 for i in $(seq 0 $Max_index); do
