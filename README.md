@@ -2,7 +2,7 @@
 
 ## News
 
-**2025.2.21** The paper is released on arxiv.
+**2025.2.21** The paper is released on arxiv: https://arxiv.org/pdf/2502.16660.
 
 ## Overview
 
