@@ -56,7 +56,7 @@ only its name.
 #### Pathway Graph Corpus for Retriever
 
 To enable retrieval, a detailed corpus for each pathway entity as the retrieval key is necessary. Our corpus is
-available on Google Drive https://drive.google.com/file/d/1wMG9CMDdX8eXrvBF3yssnYuEZwJMpBru/view?usp=sharing. Please download it and place it in **dataset/pathway_graph_env/overall_entries.json**.
+available on [Google Drive](https://drive.google.com/file/d/1wMG9CMDdX8eXrvBF3yssnYuEZwJMpBru/view?usp=sharing). Please download it and place it in **dataset/pathway_graph_env/overall_entries.json**.
 
 #### Set OpenAI Keys (If You Want to Evaluate GPT)
 
